@@ -1,0 +1,26 @@
+{
+    "name": "Marc Männgen | vier7",
+    "title": "Digital Product Designer",
+    "email": "vier7@me.com",
+    "phone": "+49 (0) 151 58 54 79 06",
+    "website": "http://www.vier7.de",
+    "city": ["Frankfurt", "Offenbach"],
+    "keywords": ["UX", "UI", "User Testing", "User Research", "Ideation & Validation"],
+    "profiles": {
+        "gravatar": "vier7@me.com",
+        "xing": "https://www.xing.com/profile/Marc_Maenngen2/",
+        "twitter": "http://twitter.com/vier7",
+        "google+": "",
+        "facebook": "https://www.facebook.com/vier7",
+        "linkedin": "https://www.linkedin.com/in/marcmaenngen/",
+        "github": "https://github.com/vier7",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
